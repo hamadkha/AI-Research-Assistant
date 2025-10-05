@@ -3,9 +3,6 @@
 An intelligent, conversational AI agent designed to assist with research queries by leveraging information from Wikipedia and ArXiv. This application uses a Retrieval-Augmented Generation (RAG) architecture to provide accurate, cited answers in a real-time chat interface.
 
 ---
-
-![AI Research Assistant Demo](https://i.imgur.com/sK2nJ8g.gif)  <!-- Replace with your own GIF if you create one -->
-
 ## ✨ Features
 
 - **Conversational Interface:** Interact with the assistant in a natural, chat-based UI built with Streamlit.
