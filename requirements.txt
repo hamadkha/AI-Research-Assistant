@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-groq
+langchainhub
+streamlit
+wikipedia
+arxiv
+sentence-transformers
+chromadb
+faiss-cpu
+python-dotenv

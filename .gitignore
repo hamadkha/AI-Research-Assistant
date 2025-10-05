@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE / Editor specific
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Dependencies
+dist/
+build/
+*.egg-info/
+
+# Vector Store Database
+chroma_db/
+
+# Streamlit
+.streamlit/
+
+# Log files
+*.log
