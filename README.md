@@ -4,7 +4,7 @@ An intelligent, conversational AI agent designed to assist with research queries
 
 ---
 
-!AI Research Assistant Demo (./assets/project.gif)
+![AI Research Assistant Demo](./assets/project.gif)
 
 ## ✨ Features
 
